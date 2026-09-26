@@ -1,10 +1,8 @@
-# AI Horizons Prague 2026 — Copilot Studio + Claude Code Demo
+# Baltic Summit 2026 — Copilot Studio + Claude Code Demo
 
 ## Session
 
 **Copilot Studio + Claude Code: From Idea to Agent in Minutes**
-
-15:30–16:20 · Sál A3 · 200 – intermediate · Angličtina/EN
 
 Building AI agents usually means writing instructions, defining skills, structuring
 knowledge sources and configuring actions. What if AI helped build those agents faster?
@@ -25,7 +23,7 @@ in minutes instead of hours.
 ## About this repo
 
 This is the demo agent used in the session: a Copilot Studio CLI agentic-loop agent
-(**AI Horizons - Demo template**) scoped to Microsoft Fabric, Microsoft Foundry,
+(**Demo template**) scoped to Microsoft Fabric, Microsoft Foundry,
 Microsoft 365 Copilot and Copilot Studio, grounded only on learn.microsoft.com, with
 every answer cited and every volatile fact (price, SKU, quota, limit) retrieved from
 knowledge rather than guessed.
